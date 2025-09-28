@@ -32,12 +32,15 @@ It bridges theory and practice by combining the **Black–Scholes model**, **Mon
    python3 python/fetch_config.py
 
 2. **Build and run the C++ simulation** :
+``` bash
 make clean
-make
-./BSOptionPricer
+make ./BSOptionPricer
+```
 
-3. **Visualize PnL distribution**:
-python3 python/plot_distribution.py
+4. **Visualize PnL distribution**:
+``` bash
+ python3 python/plot_distribution.py
+``` 
 
 ---
 
