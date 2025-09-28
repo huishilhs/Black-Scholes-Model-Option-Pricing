@@ -22,7 +22,7 @@ It bridges theory and practice by combining the **Black–Scholes model**, **Mon
 - Blue dotted line = expected PnL  
 - Red dashed line = 5% Value at Risk (VaR)
 
-*(example plot image here if you add one)*
+![Generated Chart](https://github.com/huishilhs/Black-Scholes-Model-Option-Pricing/blob/main/PnL%20Distribution%20Graph.png)
 
 ---
 
