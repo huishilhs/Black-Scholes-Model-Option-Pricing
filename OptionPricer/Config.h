@@ -10,3 +10,4 @@ struct OptionParams {
     int steps;     // number of time steps
     bool isCall;   // true = call, false = put
 };
+
