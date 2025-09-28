@@ -44,10 +44,10 @@ python3 python/plot_distribution.py
 ## 📦 Requirements
 - C++17 compiler (e.g. g++, clang++)
 - Python 3.9+ with packages:
-- yfinance
-- pandas
-- numpy
-- matplotlib
+  - yfinance
+  - pandas
+  - numpy
+  - matplotlib
 
 ---
 
